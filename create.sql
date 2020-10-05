@@ -35,9 +35,9 @@ create table projetos (
     resumo varchar(1000) not null,
     link_noticia varchar(1000) not null,
 	status_projeto_id int not null,
-    turno_id int not null,
+    tipo_turno_id int not null,
     foreign key(status_projeto_id) references status_projetos(status_projeto_id),
-    foreign key(turno_id) references turnos(turno_id)
+    foreign key(tipo_turno_id) references tipos_turno(tipo_turno_id)
 );
 
 create table posicionamentos (
