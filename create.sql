@@ -12,7 +12,7 @@ create table politicos (
     nome_politico varchar(60) not null,
     foto varchar(256),
     uf char(2) not null,
-    esta_em_execicio bool not null,
+    esta_em_exercicio bool not null,
     partido_id int not null,
     foreign key(partido_id) references partidos(partido_id)
 );
