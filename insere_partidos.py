@@ -7,7 +7,7 @@ db = pymysql.connect("localhost", "newuser", "", "qual_deputado_votar")
 cursor = db.cursor()
 
 for partido in partidos:
-    sql = "INSERT INTO partidos(nome_partido) VALUES ('%s')" % partido
+    sql = "INSERT INTO partidos(nome_partido) VALUES ('{}')".format(partido)
 
     try:
         cursor.execute(sql)
