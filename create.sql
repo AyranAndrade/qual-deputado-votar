@@ -24,12 +24,12 @@ create table tipos_turno (
 
 create table status_projetos (
 	status_projeto_id int auto_increment primary key,
-    status varchar(20) not null
+    status_projeto varchar(20) not null
 );
 
 create table projetos (
 	projeto_id int auto_increment primary key,
-    nome_projeto varchar(100) not null,
+    titulo varchar(100) not null,
     data_votacao date not null,
     quorum_minimo int not null,
     resumo varchar(1000) not null,
