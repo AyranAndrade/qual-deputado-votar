@@ -1,250 +1,888 @@
 projetos = [
   {
-    "value": "abertura-de-credito-extra-de-248-9-bi-reais",
-    "label": "Abertura de crédito extra de R$ 248,9 bi"
+    "id": 11,
+    "proposicao": "PLN4-2019",
+    "vulgar": "Abertura de crédito extra de R$ 248,9 bi",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "11/06/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/abertura-de-credito-extra-de-248-9-bi-reais/",
+    "quorum_minimo": 226,
+    "resumo": "O PLN 4 de 2019 autoriza a abertura de crédito extra de R$ 248,9 bilhões para o governo federal. A proposta define que os recursos serão obtidos por meio da emissão de títulos do Tesouro Nacional. O projeto foi sancionado em 17 de junho de 2019, após ser aprovado nos plenários da Câmara e do Senado.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/06/11/congresso-aprova-credito-extra-de-r-2489-bilhoes-para-o-governo.ghtml",
+    "permalink": "abertura-de-credito-extra-de-248-9-bi-reais",
+    "votesTotal": {
+      "sim": 450,
+      "nao": 0,
+      "naovotou": 0,
+      "ausente": 63,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 513
+    },
+    "votesParty": {
+      "sim": 0,
+      "nao": 0,
+      "naovotou": 0,
+      "ausente": 0,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 0
+    }
   },
   {
-    "value": "adiamento-das-eleicoes-de-2020-1-turno",
-    "label": "Adiamento das eleições de 2020 - 1º turno"
+    "id": 56,
+    "proposicao": "PEC18-2020-1t",
+    "vulgar": "Adiamento das eleições de 2020",
+    "turno": "1",
+    "status": "promulgada",
+    "data_votacao": "01/07/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/adiamento-das-eleicoes-de-2020-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 18 de 2020 adia as eleições municipais de 2020 em razão da pandemia do novo coronavírus. A proposta prevê que o primeiro turno das eleições seja em 15 de novembro, e o segundo, em 29 de novembro. A proposta de emenda à Constituição foi aprovada, em dois turnos, por senadores e deputados e promulgada pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/eleicoes/2020/noticia/2020/07/01/camara-aprova-em-1o-turno-texto-base-da-pec-que-adia-para-novembro-eleicoes-deste-ano.ghtml",
+    "permalink": "adiamento-das-eleicoes-de-2020-1-turno"
   },
   {
-    "value": "adiamento-das-eleicoes-de-2020-2-turno",
-    "label": "Adiamento das eleições de 2020 - 2º turno"
+    "id": 57,
+    "proposicao": "PEC18-2020-2t",
+    "vulgar": "Adiamento das eleições de 2020",
+    "turno": "2",
+    "status": "promulgada",
+    "data_votacao": "01/07/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/adiamento-das-eleicoes-de-2020-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 18 de 2020 adia as eleições municipais de 2020 em razão da pandemia do novo coronavírus. A proposta prevê que o primeiro turno das eleições seja em 15 de novembro, e o segundo, em 29 de novembro. A proposta de emenda à Constituição foi aprovada, em dois turnos, por senadores e deputados e promulgada pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/eleicoes/2020/noticia/2020/07/01/camara-aprova-em-1o-turno-texto-base-da-pec-que-adia-para-novembro-eleicoes-deste-ano.ghtml",
+    "permalink": "adiamento-das-eleicoes-de-2020-2-turno"
   },
   {
-    "value": "ajuda-a-estados-e-municipios-durante-a-pandemia",
-    "label": "Ajuda a estados e municípios durante a pandemia"
+    "id": 47,
+    "proposicao": "PLP39-2020",
+    "vulgar": "Ajuda a estados e municípios durante a pandemia",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "13/04/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/ajuda-a-estados-e-municipios-durante-a-pandemia-novo-texto/",
+    "quorum_minimo": 251,
+    "resumo": "A subemenda substitutiva ao PLP 39 de 2020 repõe as perdas de estados e municípios com a arrecadação de ICMS e ISS durante seis meses. O texto prevê ainda a suspensão, até o fim de 2020, de dívidas dos governos estaduais e municipais com BNDES e Caixa Econômica Federal. A proposição foi aprovada por deputados e senadores, mas, como sofreu alterações no Senado, foi analisada novamente na Câmara, que ainda acrescentou emendas. As emendas foram aprovadas no Senado, e o projeto foi sancionado com vetos.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/04/13/camara-aprova-texto-base-de-projeto-que-recompoe-icms-e-iss-para-estados-e-municipios.ghtml",
+    "permalink": "ajuda-a-estados-e-municipios-durante-a-pandemia"
   },
   {
-    "value": "ajuda-a-estados-e-municipios-durante-a-pandemia-novo-texto",
-    "label": "Ajuda a estados e municípios durante a pandemia (novo texto)"
+    "id": 50,
+    "proposicao": "PLP39-2020-v",
+    "vulgar": "Ajuda a estados e municípios durante a pandemia (novo texto)",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "05/05/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/ajuda-a-estados-e-municipios-durante-a-pandemia-novo-texto/",
+    "quorum_minimo": 236,
+    "resumo": "O texto-base do PLP 39 de 2020 estabelece uma ajuda financeira emergencial a estados e municípios durante a pandemia do novo coronavírus. O pacote de medidas tem custo estimado de cerca de R$ 120 bilhões para a União. A proposição foi aprovada por deputados e senadores, mas, como sofreu alterações no Senado, foi analisada novamente na Câmara, que ainda acrescentou emendas. As emendas foram aprovadas no Senado, e o projeto foi sancionado com vetos.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/05/05/camara-aprova-texto-base-de-novo-texto-de-ajuda-fiscal-aos-estados.ghtml",
+    "permalink": "ajuda-a-estados-e-municipios-durante-a-pandemia-novo-texto",
+    "votesTotal": {
+      "sim": 437,
+      "nao": 34,
+      "naovotou": 0,
+      "ausente": 42,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 513
+    },
+    "votesParty": {
+      "sim": 0,
+      "nao": 0,
+      "naovotou": 0,
+      "ausente": 0,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 0
+    }
   },
   {
-    "value": "alteracao-no-codigo-de-transito",
-    "label": "Alteração no Código de Trânsito"
+    "id": 55,
+    "proposicao": "PL3267-2019",
+    "vulgar": "Alteração no Código de Trânsito",
+    "turno": "único",
+    "status": "tramita na Câmara",
+    "data_votacao": "23/06/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 240,
+    "resumo": "O texto-base do PL 3.267 de 2019 muda trechos do Código de Trânsito Brasileiro. Entre as mudanças aprovadas pelos deputados estão o aumento do número de pontos para suspensão, em razão de multas, da Carteira Nacional de Habilitação (CNH) e a prorrogação do prazo da validade desse documento. Os deputados ainda precisam terminar de votar os destaques ao projeto de lei para, depois, a proposição ser analisada por senadores.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/06/23/camara-aprova-texto-base-de-projeto-que-altera-codigo-de-transito-saiba-ponto-a-ponto.ghtml",
+    "permalink": "alteracao-no-codigo-de-transito"
   },
   {
-    "value": "alteracao-no-fundo-eleitoral",
-    "label": "Alteração no Fundo Eleitoral"
+    "id": 23,
+    "proposicao": "PL11021-2018",
+    "vulgar": "Alteração no Fundo Eleitoral",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "03/09/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 205,
+    "resumo": "O texto-base do PL 11.021 de 2018 visa mudar a composição do Fundo Especial de Financiamento de Campanha, conhecido como Fundo Eleitoral. A proposta também prevê o retorno da propaganda partidária no rádio e na TV, extinta desde as eleições de 2018. Depois do texto-base, foram votados ainda destaques ao PL. O projeto de lei foi aprovado por deputados, sofreu alterações no Senado, foi votado novamente na Câmara e foi sancionado com vetos por Jair Bolsonaro.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/09/04/camara-aprova-texto-base-de-projeto-que-visa-mudar-composicao-do-fundo-eleitoral.ghtml",
+    "permalink": "alteracao-no-fundo-eleitoral"
   },
   {
-    "value": "ampliacao-do-auxilio-emergencial-a-agricultores-familiares",
-    "label": "Ampliação do auxílio emergencial a agricultores familiares"
+    "id": 58,
+    "proposicao": "PL735-2020",
+    "vulgar": "Ampliação do auxílio emergencial a agricultores familiares",
+    "turno": "único",
+    "status": "tramita no Senado",
+    "data_votacao": "20/07/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 41,
+    "resumo": "O PL 735 de 2020 estende o auxílio emergencial de R$ 600 a agricultores familiares que ainda não tenham recebido o benefício. Os agricultores familiares chegaram a ser incluídos pelo Congresso no projeto original de criação do auxílio emergencial, mas o trecho foi vetado por Jair Bolsonaro. Se for sancionado, os agricultores devem receber as cinco parcelas de R$ 600, assim como os trabalhadores informais já contemplados. A proposição foi aprovada por deputados e ainda precisa ser analisada por senadores.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/07/20/camara-aprova-auxilio-com-cinco-parcelas-de-r-600-a-agricultores-familiares.ghtml",
+    "permalink": "ampliacao-do-auxilio-emergencial-a-agricultores-familiares"
   },
   {
-    "value": "ampliacao-do-capital-estrangeiro-a-empresas-aereas",
-    "label": "Ampliação do capital estrangeiro a empresas aéreas"
+    "id": 1,
+    "proposicao": "PL2724-2015",
+    "vulgar": "Ampliação do capital estrangeiro a empresas aéreas",
+    "turno": "único",
+    "status": "tramita no Senado",
+    "data_votacao": "20/03/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 213,
+    "resumo": "O PL 2724 de 2015 revoga o artigo do Código Brasileiro de Aeronáutica que estabelece em 49% o limite de participação estrangeira nas empresas aéreas. Assim, não há mais limite de participação estrangeira. O projeto foi aprovado na Câmara e ainda tramita no Senado. Essa mudança no capital estrangeiro das empresas aéreas também foi alvo de uma medida provisória do governo Michel Temer, que foi sancionada por Jair Bolsonaro em 17 de junho de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/03/20/camara-aprova-texto-base-de-projeto-que-amplia-participacao-estrangeira-em-empresas-aereas.ghtml",
+    "permalink": "ampliacao-do-capital-estrangeiro-a-empresas-aereas"
   },
   {
-    "value": "coaf-no-ministerio-da-justica",
-    "label": "Coaf no Ministério da Justiça"
+    "id": 6,
+    "proposicao": "DTQ-MP870-2019",
+    "vulgar": "Coaf no Ministério da Justiça",
+    "turno": "único",
+    "status": "rejeitado",
+    "data_votacao": "22/05/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 222,
+    "resumo": "O destaque da MP 870 de 2019 estabelece que o Conselho de Controle de Atividades Financeiras (Coaf) seja de responsabilidade do Ministério da Justiça, sob o comando de Sérgio Moro, assim como determinava o texto original da medida provisória. O trecho da MP, porém, foi alterado durante a tramitação no Congresso e transferiu o Coaf para o Ministério da Economia. O destaque foi rejeitado por deputados no plenário da Câmara e, portanto, o Coaf fica no Ministério da Economia.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/05/22/camara-aprova-texto-base-da-mp-da-reforma-administrativa-com-coaf-na-economia.ghtml",
+    "permalink": "coaf-no-ministerio-da-justica"
   },
   {
-    "value": "cobranca-de-bagagem-por-companhias-aereas",
-    "label": "Cobrança de bagagem por companhias aéreas"
+    "id": 25,
+    "proposicao": "MP863-2018-v",
+    "vulgar": "Cobrança de bagagem por companhias aéreas",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "25/09/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 257,
+    "resumo": "Os deputados votaram para manter o veto de Jair Bolsonaro que permite a cobrança de bagagens acima de 23 quilos por companhias aéreas. Com a manutenção dos vetos pela Câmara, o tema não precisou ser analisado pelos senadores. Assim, continua valendo a resolução da Anac que autoriza a cobrança do despacho de bagagem, de 2016. Eram necessários 257 votos \"não\" para a derrubada do veto.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/09/25/camara-mantem-veto-de-bolsonaro-que-permite-cobranca-de-bagagens.ghtml",
+    "permalink": "cobranca-de-bagagem-por-companhias-aereas"
   },
   {
-    "value": "convocacao-do-ministro-abraham-weintraub",
-    "label": "Convocação do ministro Abraham Weintraub"
+    "id": 5,
+    "proposicao": "REQ1464-2019",
+    "vulgar": "Convocação do ministro Abraham Weintraub",
+    "turno": "único",
+    "status": "aprovada",
+    "data_votacao": "14/05/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 196,
+    "resumo": "O REQ 1464 de 2019 convoca o ministro da Educação, Abraham Weintraub, a dar explicações sobre os cortes no orçamento das universidades públicas e institutos federais. O requerimento foi aprovado por deputados no plenário da Câmara.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/05/14/camara-aprova-convocacao-do-ministro-da-educacao.ghtml",
+    "permalink": "convocacao-do-ministro-abraham-weintraub"
   },
   {
-    "value": "criacao-da-policia-penitenciaria-1-turno",
-    "label": "Criação da polícia penitenciária - 1º turno"
+    "id": 26,
+    "proposicao": "PEC372-2017-1t",
+    "vulgar": "Criação da polícia penitenciária",
+    "turno": "1",
+    "status": "tramita na Câmara",
+    "data_votacao": "09/10/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2018/o-voto-dos-senadores/#/projetos/criacao-da-policia-penitenciaria/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 372 de 2017 cria a polícia penitenciária, responsável pela segurança nos presídios e pela escolta de presos. A proposta prevê que haverá as polícias penais federal, estaduais e distrital. O texto diz que o objetivo da PEC é conferir aos agentes 'os direitos inerentes à carreira policial'. A proposta foi aprovada, em dois turnos, no Senado e na Câmara. A PEC aguarda a promulgação pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/10/09/camara-aprova-em-primeiro-turno-pec-que-cria-policias-penais.ghtml",
+    "permalink": "criacao-da-policia-penitenciaria-1-turno"
   },
   {
-    "value": "criacao-da-policia-penitenciaria-2-turno",
-    "label": "Criação da polícia penitenciária - 2º turno"
+    "id": 29,
+    "proposicao": "PEC372-2017-2t",
+    "vulgar": "Criação da polícia penitenciária",
+    "turno": "2",
+    "status": "tramita na Câmara",
+    "data_votacao": "06/11/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2018/o-voto-dos-senadores/#/projetos/criacao-da-policia-penitenciaria/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 372 de 2017 cria a polícia penitenciária, responsável pela segurança nos presídios e pela escolta de presos. A proposta prevê que haverá as polícias penais federal, estaduais e distrital. O texto diz que o objetivo da PEC é conferir aos agentes 'os direitos inerentes à carreira policial'. A proposta foi aprovada, em dois turnos, no Senado e na Câmara. A PEC aguarda a promulgação pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/11/07/camara-aprova-em-segundo-turno-pec-que-cria-policias-penais-federais-e-estaduais.ghtml",
+    "permalink": "criacao-da-policia-penitenciaria-2-turno"
   },
   {
-    "value": "criacao-do-programa-medicos-pelo-brasil",
-    "label": "Criação do programa Médicos pelo Brasil"
+    "id": 32,
+    "proposicao": "MPV890-2019",
+    "vulgar": "Criação do programa Médicos pelo Brasil",
+    "turno": "único",
+    "status": "aguarda a sanção",
+    "data_votacao": "26/11/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 200,
+    "resumo": "O texto-base da MP 890 de 2019 cria o programa Médicos pelo Brasil, que substitui o programa Mais Médicos, criado no governo Dilma Rousseff. O programa prevê o envio de profissionais a locais de difícil acesso e alta vulnerabilidade. O projeto de lei de conversão originado da MP foi aprovado por deputados e senadores e aguarda a sanção presidencial.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/11/26/camara-aprova-texto-base-de-mp-que-cria-programa-medicos-pelo-brasil.ghtml",
+    "permalink": "criacao-do-programa-medicos-pelo-brasil"
   },
   {
-    "value": "criminalizacao-do-rompimento-de-barragem-por-negligencia",
-    "label": "Criminalização do rompimento de barragem por negligência"
+    "id": 12,
+    "proposicao": "PL2788-2019",
+    "vulgar": "Criminalização do rompimento de barragem por negligência",
+    "turno": "único",
+    "status": "tramita no Senado",
+    "data_votacao": "25/06/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 196,
+    "resumo": "O PL 2788 de 2019 institui uma Política Nacional de Direitos das Populações Atingidas por Barragens e torna crime provocar o rompimento de barragem por negligência às normas de segurança. O texto prevê ainda prisão para quem provocar desastre ambiental e a ampliação dos valores mínimo e máximo das multas por infração ambiental. O projeto de lei foi aprovado por deputados e aguarda a análise de senadores.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/06/25/camara-aprova-projeto-que-torna-crime-provocar-rompimento-de-barragem-por-negligencia.ghtml",
+    "permalink": "criminalizacao-do-rompimento-de-barragem-por-negligencia"
   },
   {
-    "value": "destaque-para-afrouxar-congelamento-de-salarios",
-    "label": "Destaque para afrouxar congelamento de salários"
+    "id": 52,
+    "proposicao": "DTQ-PLP39-2020",
+    "vulgar": "Destaque para afrouxar congelamento de salários",
+    "turno": "único",
+    "status": "aguarda sanção",
+    "data_votacao": "05/05/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 163,
+    "resumo": "O destaque 14 ao PLP 39 de 2020 amplia o número de categorias profissionais que não terão os salários congelados e reduz a economia para a União. O voto 'não' foi a favor de afrouxar o congelamento e incluir as carreiras de policiais, professores da rede pública, médicos, enfermeiros, integrantes das Forças Armadas, entre outros. Já o 'sim' foi para manter uma maior economia e reajustar o salário apenas de servidores envolvidos no combate à pandemia. O trecho foi destacado do projeto de lei que também estabelece uma ajuda financeira emergencial a estados e municípios durante a pandemia do novo coronavírus. A proposição foi aprovada por deputados e senadores, mas, como sofreu alterações no Senado, foi analisada novamente na Câmara, que ainda acrescentou emendas. As emendas foram aprovadas no Senado, e o projeto aguarda a sanção presidencial.",
+    "link_g1": "https://g1.globo.com/politica/blog/valdo-cruz/post/2020/05/06/economia-prevista-em-projeto-de-ajuda-a-estados-cai-r-90-e-desagrada-governo.ghtml",
+    "permalink": "destaque-para-afrouxar-congelamento-de-salarios"
   },
   {
-    "value": "destaque-para-alterar-regra-para-homens-na-reforma-da-previdencia",
-    "label": "Destaque para alterar regra para homens na reforma da Previdência"
+    "id": 17,
+    "proposicao": "DTQ76-PEC6-2019-1t",
+    "vulgar": "Destaque para alterar regra para homens na reforma da Previdência",
+    "turno": "único",
+    "status": "rejeitado",
+    "data_votacao": "12/07/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "O destaque 76 à PEC 6 de 2019 se refere a um trecho do substitutivo que passa a ser suprimido, já que os deputados rejeitaram o destaque. Com a mudança, o tempo mínimo de contribuição para homens reduz de 20 para 15 anos. Assim, o tempo mínimo de contribuição fica igual para homens e mulheres. O destaque não modifica as idades mínimas para homens e mulheres poderem se aposentar, que são de 65 anos para os homens e 62 anos para as mulheres.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/07/12/camara-aprova-reduzir-de-20-para-15-anos-tempo-minimo-de-contribuicao-para-homens.ghtml",
+    "permalink": "destaque-para-alterar-regra-para-homens-na-reforma-da-previdencia"
   },
   {
-    "value": "destaque-para-alterar-regra-para-mulheres-na-reforma-da-previdencia",
-    "label": "Destaque para alterar regra para mulheres na reforma da Previdência"
+    "id": 15,
+    "proposicao": "EMA5-PEC6-2019-1t",
+    "vulgar": "Destaque para alterar regra para mulheres na reforma da Previdência",
+    "turno": "único",
+    "status": "aprovado",
+    "data_votacao": "11/07/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A emenda aglutinativa 5, votada como destaque à PEC 6 de 2019, altera a regra para o cálculo do valor da aposentadoria das mulheres e favorece viúvas que recebem pensões. A emenda trata do acréscimo no valor do benefício das mulheres que, no momento da aposentadoria, tiverem mais tempo de contribuição que o mínimo exigido. O texto alterou ainda o texto-base para prever que o valor da pensão não poderá ser inferior a um salário mínimo, independentemente de haver outra fonte de renda na família. A emenda foi aprovada por deputados e será acrescentada à PEC da reforma da Previdência.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/07/11/camara-aprova-emenda-que-altera-regra-de-calculo-do-valor-da-aposentadoria-de-mulheres.ghtml",
+    "permalink": "destaque-para-alterar-regra-para-mulheres-na-reforma-da-previdencia"
   },
   {
-    "value": "destaque-para-alterar-regra-para-professores-na-reforma-da-previdencia",
-    "label": "Destaque para alterar regra para professores na reforma da Previdência"
+    "id": 18,
+    "proposicao": "DTQ43-PEC6-2019-1t",
+    "vulgar": "Destaque para alterar regra para professores na reforma da Previdência",
+    "turno": "único",
+    "status": "rejeitado",
+    "data_votacao": "12/07/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "O destaque 43 à PEC 6 de 2019 se refere a um trecho do substitutivo que passa a ser suprimido, já que os deputados rejeitaram o destaque. Com a mudança, a idade mínima de aposentadoria de professores passa a ser cinco anos menor que a dos demais trabalhadores. A mudança beneficia professores que já estão próximos da idade de aposentadoria.",
+    "link_g1": "https://g1.globo.com/politica/reforma-da-previdencia/noticia/2019/07/12/previdencia-camara-aprova-destaque-que-beneficia-professores-que-estao-proximos-da-aposentadoria.ghtml",
+    "permalink": "destaque-para-alterar-regra-para-professores-na-reforma-da-previdencia"
   },
   {
-    "value": "destaque-para-alterar-regras-para-policiais-na-reforma-da-previdencia",
-    "label": "Destaque para alterar regras para policiais na reforma da Previdência"
+    "id": 16,
+    "proposicao": "EMC8-PEC6-2019-1t",
+    "vulgar": "Destaque para alterar regras para policiais na reforma da Previdência",
+    "turno": "único",
+    "status": "aprovado",
+    "data_votacao": "12/07/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A emenda modificativa 8, votada como destaque à PEC 6 de 2019, altera as regras de aposentadoria para uma série de carreiras policiais e estabelece idades mínimas menores para essas categorias. As regras beneficiam, principalmente, os policiais que estão próximos de conquistar a aposentadoria. A emenda foi aprovada por deputados e será acrescentada à PEC da reforma da Previdência.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/07/12/previdencia-camara-aprova-emenda-que-suaviza-regras-de-aposentadoria-para-policiais.ghtml",
+    "permalink": "destaque-para-alterar-regras-para-policiais-na-reforma-da-previdencia"
   },
   {
-    "value": "destaque-para-excluir-professores-da-reforma-da-previdencia",
-    "label": "Destaque para excluir professores da reforma da Previdência"
+    "id": 14,
+    "proposicao": "DTQ9-PEC6-2019-1t",
+    "vulgar": "Destaque para excluir professores da reforma da Previdência",
+    "turno": "único",
+    "status": "rejeitado",
+    "data_votacao": "10/07/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "O destaque nº 9 à PEC 6 de 2019 propõe que os professores sejam excluídos da reforma da Previdência. O texto foi rejeitado por deputados no plenário da Câmara em 10 de julho de 2019 e não será inserido na proposta de emenda à Constituição que altera as regras de aposentadoria.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/07/10/previdencia-camara-dos-deputados-rejeita-retirar-professores-da-reforma.ghtml",
+    "permalink": "destaque-para-excluir-professores-da-reforma-da-previdencia"
   },
   {
-    "value": "incentivo-a-construtoras-do-minha-casa-minha-vida",
-    "label": "Incentivo a construtoras do Minha Casa, Minha Vida"
+    "id": 40,
+    "proposicao": "VET49-2019",
+    "vulgar": "Incentivo a construtoras do Minha Casa, Minha Vida",
+    "turno": "único",
+    "status": "derrubado",
+    "data_votacao": "17/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 174,
+    "resumo": "O veto presidencial 49 de 2019 impedia que fosse retomado o incentivo a empresas construtoras por meio do programa Minha Casa, Minha Vida. Os deputados e os senadores, porém, votaram para derrubar o veto. E, com a derrubada do veto, o Regime Especial de Tributação (RET) volta a entrar em vigor para a incorporação de unidades residenciais de até R$ 100 mil.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/17/minha-casa-minha-vida-congresso-derruba-veto-ao-incentivo-a-construtoras.ghtml",
+    "permalink": "incentivo-a-construtoras-do-minha-casa-minha-vida"
   },
   {
-    "value": "mais-recursos-para-municipios-1-turno",
-    "label": "Mais recursos para municípios - 1º turno"
+    "id": 38,
+    "proposicao": "PEC391-2017-1t",
+    "vulgar": "Mais recursos para municípios",
+    "turno": "1",
+    "status": "tramita na Câmara",
+    "data_votacao": "17/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 391 de 2017 amplia o volume de recursos repassados às cidades via Fundo de Participação dos Municípios. A proposta determina que o aumento do repasse será escalonado pelos próximos quatro anos, a partir de 2020. Será 0,25% em 2020 e 2021; 0,5% em 2022; e 1% em 2023. A proposta foi aprovada, em primeiro turno, por deputados, que ainda precisam analisar a proposição em segundo turno.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/17/camara-aprova-em-1o-turno-pec-que-amplia-recursos-repassados-aos-municipios.ghtml",
+    "permalink": "mais-recursos-para-municipios-1-turno"
   },
   {
-    "value": "mp-da-estrutura-ministerial",
-    "label": "MP da estrutura ministerial"
+    "id": 27,
+    "proposicao": "MPV886-2019",
+    "vulgar": "MP da estrutura ministerial",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "15/10/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 190,
+    "resumo": "O texto-base da MP 886 de 2019 altera atribuições de pastas como Casa Civil, Secretaria-Geral e Secretaria de Governo da Presidência da República. Entre as alterações, a proposta concentrou a articulação política do governo na Secretaria de Governo. Já a Casa Civil recebeu em sua pasta a secretaria do Programa de Parcerias de Investimentos (PPI). A MP também previa ainda a transferência, para o Ministério da Agricultura, da competência para a demarcação de terras indígenas. Esse trecho, porém, perdeu a eficácia por decisão do STF, que concedeu liminar em ações para suspender o trecho. O tema não chegou a ir a votação e, com isso, a tarefa de demarcar fica a cargo da Funai. O texto-base do projeto de lei de conversão da MP foi aprovado por deputados e senadores. A proposição foi sancionada em 11 de novembro de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/10/15/lider-chega-a-pedir-obstrucao-mas-deputados-do-psl-aprovam-mp-que-mudou-ministerios.ghtml",
+    "permalink": "mp-da-estrutura-ministerial"
   },
   {
-    "value": "mp-da-flexibilizacao-das-regras-trabalhistas-durante-a-pandemia",
-    "label": "MP da flexibilização das regras trabalhistas durante a pandemia"
+    "id": 54,
+    "proposicao": "MPV927-2020",
+    "vulgar": "MP da flexibilização das regras trabalhistas durante a pandemia",
+    "turno": "único",
+    "status": "tramita no Senado",
+    "data_votacao": "17/06/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 233,
+    "resumo": "O texto-base da MP 927 de 2020 flexibiliza as regras trabalhistas enquanto durar o decreto de calamidade pública em razão da crise do novo coronavírus.​ Entre as mudanças previstas na MP, está a possibilidade de o empregador e o empregado celebrarem acordo individual, que deve se sobrepor a leis ou normas coletivas de trabalho. A MP prevê ainda o teletrabalho (home office), a antecipação das férias e feriados, a concessão de férias coletivas, o adiamento dos depósitos no FGTS. O projeto de lei originário da medida provisória foi aprovado por deputados e ainda precisa ser analisado por senadores antes de seguir para a sanção presidencial.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/06/17/camara-aprova-texto-base-de-mp-que-flexibiliza-regras-trabalhistas-durante-pandemia.ghtml",
+    "permalink": "mp-da-flexibilizacao-das-regras-trabalhistas-durante-a-pandemia"
   },
   {
-    "value": "mp-da-liberdade-economica",
-    "label": "MP da liberdade econômica"
+    "id": 20,
+    "proposicao": "MPV881-2019",
+    "vulgar": "MP da liberdade econômica",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "13/08/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 213,
+    "resumo": "A proposta altera regras trabalhistas e traz, por exemplo, normas para trabalho aos domingos, além de prever critérios para a adoção do registro de ponto de funcionários. O texto foi aprovado por deputados e senadores e foi sancionado em 20 de setembro de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/08/13/camara-aprova-texto-base-da-mp-da-liberdade-economica.ghtml",
+    "permalink": "mp-da-liberdade-economica"
   },
   {
-    "value": "mp-do-agro",
-    "label": "MP do Agro"
+    "id": 42,
+    "proposicao": "MPV897-2019",
+    "vulgar": "MP do Agro",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "11/02/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 194,
+    "resumo": "O texto-base da MP 897 de 2019, também chamada de MP do Agro, prevê mudanças relacionadas ao sistema de crédito rural, como aval solidário e o chamado patrimônio de afetação, que interfere na concessão de garantias para a obtenção dos financiamentos. O projeto de lei de conversão originado da MP foi aprovado tanto por deputados quanto por senadores e sancionado por Jair Bolsonaro.",
+    "link_g1": "https://revistagloborural.globo.com/Noticias/Politica/noticia/2020/02/mp-do-agro-tem-texto-base-aprovado-no-plenario-da-camara.html",
+    "permalink": "mp-do-agro"
   },
   {
-    "value": "mp-do-aporte-bilionario-para-a-eletrobras",
-    "label": "MP do aporte bilionário para a Eletrobras"
+    "id": 21,
+    "proposicao": "MPV879-2019",
+    "vulgar": "MP do aporte bilionário para a Eletrobras",
+    "turno": "único",
+    "status": "rejeitada",
+    "data_votacao": "20/08/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 181,
+    "resumo": "A MP 879 de 2019 previa um aporte de R$ 3,5 bilhões para a Eletrobras para compensar a estatal pelas despesas de distribuidoras de energia da estatal no passado. Os recursos seriam repassados até 2021. Os deputados rejeitaram o parecer da comissão mista no plenário da Câmara e, portanto, a medida provisória foi arquivada.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/08/20/camara-derruba-mp-que-previa-repasse-de-r-35-bilhoes-para-a-eletrobras.ghtml",
+    "permalink": "mp-do-aporte-bilionario-para-a-eletrobras"
   },
   {
-    "value": "mp-do-contrato-verde-e-amarelo",
-    "label": "MP do contrato verde e amarelo"
+    "id": 48,
+    "proposicao": "MPV905-2019",
+    "vulgar": "MP do contrato verde e amarelo",
+    "turno": "único",
+    "status": "aprovado",
+    "data_votacao": "14/04/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 239,
+    "resumo": "A MP 905 de 2019 cria o chamado Contrato Verde e Amarelo, programa do governo federal para reduzir encargos trabalhistas para empresas. Segundo o governo, a ideia é estimular a geração de empregos, principalmente entre jovens. O projeto de lei originado da MP foi aprovado por deputados e não foi analisado por senadores. Depois, a medida provisória teve seus efeitos sustados pela MP 955 de 2020, publicada por Jair Bolsonaro em 20 de abril de 2020.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/04/14/camara-aprova-medida-provisoria-do-contrato-verde-e-amarelo.ghtml",
+    "permalink": "mp-do-contrato-verde-e-amarelo"
   },
   {
-    "value": "mudanca-na-renegociacao-de-dividas-com-a-uniao",
-    "label": "Mudança na renegociação de dívidas com a União"
+    "id": 53,
+    "proposicao": "PLP9-2020",
+    "vulgar": "Mudança na renegociação de dívidas com a União",
+    "turno": "único",
+    "status": "tramita no Senado",
+    "data_votacao": "27/05/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 227,
+    "resumo": "O PLP 9 de 2020 permite a micro e pequenas empresas inscritas no Simples Nacional aderir à transação tributária (uma modalidade de acordo com a Fazenda Pública) a fim de extinguir dívidas com a União. A proposição foi aprovada por deputados e ainda precisa ser analisada por senadores.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/05/27/camara-aprova-projeto-que-facilita-renegociacao-de-dividas-de-empresas-do-simples-com-a-uniao.ghtml",
+    "permalink": "mudanca-na-renegociacao-de-dividas-com-a-uniao"
   },
   {
-    "value": "nova-regra-para-repasse-de-emendas-1-turno",
-    "label": "Nova regra para repasse de emendas - 1º turno"
+    "id": 30,
+    "proposicao": "PEC48-2019-1t",
+    "vulgar": "Nova regra para repasse de emendas",
+    "turno": "1",
+    "status": "aguarda promulgação",
+    "data_votacao": "19/11/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/nova-regra-para-repasse-de-emendas-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 48 de 2019 muda as regras para o repasse de emendas parlamentares individuais impositivas. A proposta cria duas modalidades de repasse dos recursos: 1) transferência especial; e 2) transferência com finalidade definida. Pelo texto, as verbas não podem ser usadas para o pagamento de despesas com pessoal e encargos sociais de servidores ativos e inativos e pensionistas, nem com os encargos do serviço da dívida. A proposição foi aprovada, em dois turnos, por deputados e senadores e aguarda a promulgação pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/11/19/camara-aprova-em-1o-turno-proposta-que-muda-regra-do-repasse-de-emenda-parlamentar.ghtml",
+    "permalink": "nova-regra-para-repasse-de-emendas-1-turno"
   },
   {
-    "value": "nova-regra-para-repasse-de-emendas-2-turno",
-    "label": "Nova regra para repasse de emendas - 2º turno"
+    "id": 31,
+    "proposicao": "PEC48-2019-2t",
+    "vulgar": "Nova regra para repasse de emendas",
+    "turno": "2",
+    "status": "aguarda promulgação",
+    "data_votacao": "19/11/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/nova-regra-para-repasse-de-emendas-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 48 de 2019 muda as regras para o repasse de emendas parlamentares individuais impositivas. A proposta cria duas modalidades de repasse dos recursos: 1) transferência especial; e 2) transferência com finalidade definida. Pelo texto, as verbas não podem ser usadas para o pagamento de despesas com pessoal e encargos sociais de servidores ativos e inativos e pensionistas, nem com os encargos do serviço da dívida. A proposição foi aprovada, em dois turnos, por deputados e senadores e aguarda a promulgação pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/11/19/camara-aprova-em-1o-turno-proposta-que-muda-regra-do-repasse-de-emenda-parlamentar.ghtml",
+    "permalink": "nova-regra-para-repasse-de-emendas-2-turno"
   },
   {
-    "value": "novas-regras-para-o-iss",
-    "label": "Novas regras para o ISS"
+    "id": 33,
+    "proposicao": "PL461-2017",
+    "vulgar": "Novas regras para o ISS",
+    "turno": "único",
+    "status": "tramita na Câmara",
+    "data_votacao": "02/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 157,
+    "resumo": "O texto-base do PL 461 de 2017 muda as regras do Imposto Sobre Serviços de Qualquer Natureza (ISS). O texto-base aprovado pela Câmara prevê que o local de cobrança do ISS será o município onde está o consumidor, e não o município onde fica a sede da empresa. Os deputados ainda precisam analisar os destaques da proposição para o texto seguir para o Senado.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/02/camara-aprova-texto-base-de-projeto-que-muda-regras-do-imposto-sobre-servicos.ghtml",
+    "permalink": "novas-regras-para-o-iss"
   },
   {
-    "value": "novas-regras-para-partidos-e-eleicoes",
-    "label": "Novas regras para partidos e eleições"
+    "id": 24,
+    "proposicao": "PL5029-2019",
+    "vulgar": "Novas regras para partidos e eleições",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "18/09/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 203,
+    "resumo": "Os deputados votaram para rejeitar parte das emendas que modificavam o texto do PL 5.029 de 2019 (antigo PL 11.021 de 2018). Assim, a Câmara resgatou trechos da versão anterior do projeto que aborda os fundos eleitoral e partidário. A nova versão do projeto deixou de fora quatro pontos (simplificação na prestação de contas partidárias, permissão para modelos próprios de prestação de contas, multa por conduta dolosa e correção de erros formais na prestação de contas partidárias até o julgamento). Esses trechos já tinham sido suprimidos em votação no Senado. Em seguida, os deputados votaram destaques ao texto. A proposição foi aprovada por deputados e senadores e foi sancionada, com vetos, por Jair Bolsonaro.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/09/18/camara-aprova-texto-base-do-projeto-com-novas-regras-para-partidos-e-eleicoes.ghtml",
+    "permalink": "novas-regras-para-partidos-e-eleicoes"
   },
   {
-    "value": "novo-marco-legal-do-saneamento-basico",
-    "label": "Novo marco legal do saneamento básico"
+    "id": 37,
+    "proposicao": "PL4162-2019",
+    "vulgar": "Novo marco legal do saneamento básico",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "11/12/2019",
+    "outra_votacao": "http://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/novo-marco-legal-do-saneamento-basico/",
+    "quorum_minimo": 202,
+    "resumo": "O texto-base do PL 4.162 de 2019 estabelece o novo marco legal do saneamento básico e determina novas regras para o setor, abrindo caminho para a exploração do serviço pela iniciativa privada. O novo marco também estabelece como meta até 2033 fornecer coleta de esgoto a 90% da população. A proposição foi aprovada por deputados e senadores e foi sancionada por Jair Bolsonaro com veto parcial em 15 de julho de 2020.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/11/camara-aprova-texto-base-do-novo-marco-do-saneamento-basico.ghtml",
+    "permalink": "novo-marco-legal-do-saneamento-basico"
   },
   {
-    "value": "pacote-anticrime",
-    "label": "Pacote anticrime"
+    "id": 35,
+    "proposicao": "PL10372-2018",
+    "vulgar": "Pacote anticrime",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "04/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 210,
+    "resumo": "O texto-base do PL 10.372 de 2018 prevê uma série de medidas para endurecer a legislação penal contra o crime. O projeto é resultado da análise das propostas enviadas pelo ministro Sérgio Moro e pela comissão de juristas coordenada por Alexandre de Moraes, do STF. A proposição foi aprovada por deputados e senadores e sancionada por Jair Bolsonaro.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/04/camara-aprova-texto-base-de-projeto-que-endurece-legislacao-penal-contra-o-crime.ghtml",
+    "permalink": "pacote-anticrime"
   },
   {
-    "value": "pec-da-reforma-da-previdencia-1-turno",
-    "label": "PEC da reforma da Previdência - 1º turno"
+    "id": 13,
+    "proposicao": "PEC6-2019-1t",
+    "vulgar": "PEC da reforma da Previdência",
+    "turno": "1",
+    "status": "promulgada",
+    "data_votacao": "10/07/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-da-reforma-da-previdencia-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 6 de 2019 estabelece, entre outros pontos, a imposição de uma idade mínima para os trabalhadores se aposentarem: 65 anos para homens; e 62 anos para mulheres. O texto propõe ainda regras de transição para quem já está no mercado de trabalho. A PEC foi aprovada, em dois turnos, por deputados e senadores e foi promulgada em 12 de novembro de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/07/10/camara-aprova-em-primeiro-turno-texto-base-da-pec-da-previdencia.ghtml",
+    "permalink": "pec-da-reforma-da-previdencia-1-turno"
   },
   {
-    "value": "pec-da-reforma-da-previdencia-2-turno",
-    "label": "PEC da reforma da Previdência - 2º turno"
+    "id": 19,
+    "proposicao": "PEC6-2019-2t",
+    "vulgar": "PEC da reforma da Previdência",
+    "turno": "2",
+    "status": "promulgada",
+    "data_votacao": "07/08/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-da-reforma-da-previdencia-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 6 de 2019 estabelece, entre outros pontos, a imposição de uma idade mínima para os trabalhadores se aposentarem: 65 anos para homens; e 62 anos para mulheres. O texto propõe ainda regras de transição para quem já está no mercado de trabalho. A PEC foi aprovada, em dois turnos, por deputados e senadores e foi promulgada em 12 de novembro de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/08/07/por-370-votos-a-124-camara-aprova-em-segundo-turno-texto-base-da-reforma-da-previdencia.ghtml",
+    "permalink": "pec-da-reforma-da-previdencia-2-turno"
   },
   {
-    "value": "pec-da-tramitacao-das-mps-1-turno",
-    "label": "PEC da tramitação das MPs - 1º turno"
+    "id": 7,
+    "proposicao": "PEC70-2011-1t",
+    "vulgar": "PEC da tramitação das MPs",
+    "turno": "1",
+    "status": "aguarda promulgação",
+    "data_votacao": "05/06/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 70 de 2011 altera as regras de tramitação de medidas provisórias e fixa prazos para a análise na comissão mista, no plenário da Câmara e no plenário do Senado. A proposta também impede a inclusão de \"jabutis\", temas estranhos à versão original da MP. O texto foi aprovado, em dois turnos, por deputados e senadores e aguarda a promulgação.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/06/05/camara-aprova-pec-que-altera-regras-sobre-tramitacao-de-medidas-provisorias.ghtml",
+    "permalink": "pec-da-tramitacao-das-mps-1-turno"
   },
   {
-    "value": "pec-da-tramitacao-das-mps-2-turno",
-    "label": "PEC da tramitação das MPs - 2º turno"
+    "id": 8,
+    "proposicao": "PEC70-2011-2t",
+    "vulgar": "PEC da tramitação das MPs",
+    "turno": "2",
+    "status": "aguarda promulgação",
+    "data_votacao": "05/06/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 70 de 2011 altera as regras de tramitação de medidas provisórias e fixa prazos para a análise na comissão mista, no plenário da Câmara e no plenário do Senado. A proposta também impede a inclusão de \"jabutis\", temas estranhos à versão original da MP. O texto foi aprovado, em dois turnos, por deputados e senadores e aguarda a promulgação.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/06/05/camara-aprova-pec-que-altera-regras-sobre-tramitacao-de-medidas-provisorias.ghtml",
+    "permalink": "pec-da-tramitacao-das-mps-2-turno"
   },
   {
-    "value": "pec-do-orcamento-de-guerra-1-turno",
-    "label": "PEC do orçamento de guerra - 1º turno"
+    "id": 44,
+    "proposicao": "PEC10-2020-1t",
+    "vulgar": "PEC do orçamento de guerra",
+    "turno": "1",
+    "status": "promulgada",
+    "data_votacao": "03/04/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 10 de 2020 cria um orçamento paralelo, chamado de \"orçamento de guerra\", para destinar recursos exclusivos às medidas de combate ao coronavírus. O texto permite que o governo gaste os recursos sem as amarras aplicadas ao orçamento regular, como a regra de ouro – que está na Constituição e proíbe o governo de contrair dívidas para pagar despesas correntes, como salários. A proposição foi aprovada, em dois turnos, por deputados e sofreu alterações no Senado, onde também foi aprovada. Agora, a PEC espera a nova votação na Câmara para, depois, ser promulgada.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/04/03/coronavirus-camara-aprova-em-1o-turno-pec-que-cria-orcamento-de-guerra.ghtml",
+    "permalink": "pec-do-orcamento-de-guerra-1-turno"
   },
   {
-    "value": "pec-do-orcamento-de-guerra-2-turno",
-    "label": "PEC do orçamento de guerra - 2º turno"
+    "id": 45,
+    "proposicao": "PEC10-2020-2t",
+    "vulgar": "PEC do orçamento de guerra",
+    "turno": "2",
+    "status": "promulgada",
+    "data_votacao": "03/04/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 10 de 2020 cria um orçamento paralelo, chamado de \"orçamento de guerra\", para destinar recursos exclusivos às medidas de combate ao coronavírus. O texto permite que o governo gaste os recursos sem as amarras aplicadas ao orçamento regular, como a regra de ouro – que está na Constituição e proíbe o governo de contrair dívidas para pagar despesas correntes, como salários. A proposição foi aprovada, em dois turnos, por deputados e sofreu alterações no Senado, onde também foi aprovada. Agora, a PEC espera a nova votação na Câmara para, depois, ser promulgada.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/04/03/coronavirus-camara-aprova-em-1o-turno-pec-que-cria-orcamento-de-guerra.ghtml",
+    "permalink": "pec-do-orcamento-de-guerra-2-turno"
   },
   {
-    "value": "pec-do-orcamento-de-guerra-novo-texto-1-turno",
-    "label": "PEC do orçamento de guerra (novo texto) - 1º turno"
+    "id": 49,
+    "proposicao": "PEC10-2020-1t-v",
+    "vulgar": "PEC do orçamento de guerra (novo texto)",
+    "turno": "1",
+    "status": "promulgada",
+    "data_votacao": "04/05/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-do-orcamento-de-guerra-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 10 de 2020 cria o \"orçamento de guerra\", destinado exclusivamente a ações de combate à pandemia de coronavírus. O texto permite que o governo gaste os recursos sem as amarras aplicadas ao orçamento regular, como a regra de ouro – que está na Constituição e proíbe o governo de contrair dívidas para pagar despesas correntes, como salários. A proposição foi aprovada, em dois turnos, por deputados e sofreu alterações no Senado, onde também foi aprovada. Agora, a PEC é analisada novamente na Câmara para, depois, ser promulgada.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/05/04/camara-aprova-em-1o-turno-texto-base-da-nova-versao-da-pec-do-orcamento-de-guerra.ghtml",
+    "permalink": "pec-do-orcamento-de-guerra-novo-texto-1-turno"
   },
   {
-    "value": "pec-do-orcamento-de-guerra-novo-texto-2-turno",
-    "label": "PEC do orçamento de guerra (novo texto) - 2º turno"
+    "id": 51,
+    "proposicao": "PEC10-2020-2t-v",
+    "vulgar": "PEC do orçamento de guerra (novo texto)",
+    "turno": "2",
+    "status": "promulgada",
+    "data_votacao": "06/05/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-do-orcamento-de-guerra-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 10 de 2020 cria o \"orçamento de guerra\", destinado exclusivamente a ações de combate à pandemia de coronavírus. O texto permite que o governo gaste os recursos sem as amarras aplicadas ao orçamento regular, como a regra de ouro – que está na Constituição e proíbe o governo de contrair dívidas para pagar despesas correntes, como salários. A proposição foi aprovada, em dois turnos, por deputados e sofreu alterações no Senado, onde também foi aprovada. Agora, a PEC é analisada novamente na Câmara para, depois, ser promulgada.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/05/06/camara-aprova-em-2o-turno-nova-versao-da-pec-do-orcamento-de-guerra.ghtml",
+    "permalink": "pec-do-orcamento-de-guerra-novo-texto-2-turno"
   },
   {
-    "value": "pec-do-orcamento-impositivo-1-turno",
-    "label": "PEC do Orçamento Impositivo - 1º turno"
+    "id": 2,
+    "proposicao": "PEC2-2015-1t",
+    "vulgar": "PEC do Orçamento Impositivo",
+    "turno": "1",
+    "status": "promulgada",
+    "data_votacao": "26/03/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-do-orcamento-impositivo-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 2 de 2015, depois denominada PEC 34 de 2019, inclui na Constituição a obrigatoriedade de o governo pagar as emendas parlamentares de bancada previstas no Orçamento. O texto, na prática, engessa as possibilidades do governo de executar a peça orçamentária e, com isso, diminui a margem para remanejamentos. O texto sofreu alterações no Senado e, por isso, passou por mais votações no plenário da Câmara. A proposta foi promulgada pelo Congresso em 26 de junho de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/03/26/camara-aprova-texto-base-de-pec-que-obriga-governo-a-executar-todos-os-investimentos-previstos-no-orcamento.ghtml",
+    "permalink": "pec-do-orcamento-impositivo-1-turno"
   },
   {
-    "value": "pec-do-orcamento-impositivo-2-turno",
-    "label": "PEC do Orçamento Impositivo - 2º turno"
+    "id": 3,
+    "proposicao": "PEC2-2015-2t",
+    "vulgar": "PEC do Orçamento Impositivo",
+    "turno": "2",
+    "status": "promulgada",
+    "data_votacao": "26/03/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-do-orcamento-impositivo-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 2 de 2015, depois denominada PEC 34 de 2019, inclui na Constituição a obrigatoriedade de o governo pagar as emendas parlamentares de bancada previstas no Orçamento. O texto, na prática, engessa as possibilidades do governo de executar a peça orçamentária e, com isso, diminui a margem para remanejamentos. O texto sofreu alterações no Senado e, por isso, passou por mais votações no plenário da Câmara. A proposta foi promulgada pelo Congresso em 26 de junho de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/03/26/camara-aprova-texto-base-de-pec-que-obriga-governo-a-executar-todos-os-investimentos-previstos-no-orcamento.ghtml",
+    "permalink": "pec-do-orcamento-impositivo-2-turno"
   },
   {
-    "value": "pec-do-orcamento-impositivo-1-turno-novo-texto",
-    "label": "PEC do Orçamento Impositivo (novo texto) - 1º turno"
+    "id": 9,
+    "proposicao": "PEC34-2019-1t",
+    "vulgar": "PEC do Orçamento Impositivo (novo texto)",
+    "turno": "1",
+    "status": "promulgada",
+    "data_votacao": "05/06/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-do-orcamento-impositivo-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 34 de 2019 inclui na Constituição a obrigatoriedade de o governo pagar as emendas parlamentares de bancada previstas no Orçamento. O texto, na prática, engessa as possibilidades do governo de executar a peça orçamentária e, com isso, diminui a margem para remanejamentos. O texto sofreu alterações no Senado e, por isso, passou por mais votações no plenário da Câmara. A proposta foi promulgada pelo Congresso em 26 de junho de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/06/05/camara-aprova-em-1o-turno-texto-base-da-pec-do-orcamento-impositivo.ghtml",
+    "permalink": "pec-do-orcamento-impositivo-1-turno-novo-texto"
   },
   {
-    "value": "pec-do-orcamento-impositivo-2-turno-novo-texto",
-    "label": "PEC do Orçamento Impositivo (novo texto) - 2º turno"
+    "id": 10,
+    "proposicao": "PEC34-2019-2t",
+    "vulgar": "PEC do Orçamento Impositivo (novo texto)",
+    "turno": "2",
+    "status": "promulgada",
+    "data_votacao": "05/06/2019",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/pec-do-orcamento-impositivo-1-turno/",
+    "quorum_minimo": 308,
+    "resumo": "A PEC 34 de 2019 inclui na Constituição a obrigatoriedade de o governo pagar as emendas parlamentares de bancada previstas no Orçamento. O texto, na prática, engessa as possibilidades do governo de executar a peça orçamentária e, com isso, diminui a margem para remanejamentos. O texto sofreu alterações no Senado e, por isso, passou por mais votações no plenário da Câmara. A proposta foi promulgada pelo Congresso em 26 de junho de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/06/05/camara-aprova-em-1o-turno-texto-base-da-pec-do-orcamento-impositivo.ghtml",
+    "permalink": "pec-do-orcamento-impositivo-2-turno-novo-texto"
   },
   {
-    "value": "posse-de-arma-em-toda-a-propriedade-rural",
-    "label": "Posse de arma em toda a propriedade rural"
+    "id": 22,
+    "proposicao": "PL3715-2019",
+    "vulgar": "Posse de arma em toda a propriedade rural",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "21/08/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 192,
+    "resumo": "O PL 3715 de 2019 permite a posse de arma em toda a extensão da propriedade rural. Pela regra atual, do Estatuto do Desarmamento, a posse só é permitida na sede da propriedade. Já o texto do projeto estabelece a chamada \"posse rural estendida\", ou seja, permite que a posse de arma se estenda por toda a propriedade rural. A proposição foi aprovada por deputados e senadores e foi sancionada por Jair Bolsonaro em 17 de setembro de 2019.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/08/21/camara-aprova-texto-base-de-projeto-que-permite-posse-de-arma-em-toda-a-propriedade-rural.ghtml",
+    "permalink": "posse-de-arma-em-toda-a-propriedade-rural"
   },
   {
-    "value": "prorrogacao-de-beneficios-fiscais-a-igrejas-e-instituicoes-beneficentes",
-    "label": "Prorrogação de benefícios fiscais a igrejas e instituições beneficentes"
+    "id": 4,
+    "proposicao": "PLP55-2019",
+    "vulgar": "Prorrogação de benefícios fiscais a igrejas e instituições beneficentes",
+    "turno": "único",
+    "status": "aguarda sanção",
+    "data_votacao": "08/05/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 195,
+    "resumo": "O PLP 55 de 2019 prorroga por mais 15 anos os benefícios fiscais concedidos a igrejas, templos de qualquer culto, Santas Casas e instituições beneficentes. O texto prevê que essas entidades fiquem isentas do pagamento de ICMS. O projeto foi aprovado na Câmara e no Senado e aguarda a sanção presidencial.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/05/08/camara-aprova-projeto-que-prorroga-beneficios-fiscais-para-igrejas-e-instituicoes-beneficentes.ghtml",
+    "permalink": "prorrogacao-de-beneficios-fiscais-a-igrejas-e-instituicoes-beneficentes"
   },
   {
-    "value": "reajuste-a-servidores-publicos",
-    "label": "Reajuste a servidores públicos"
+    "id": 62,
+    "proposicao": "VET17-2020",
+    "vulgar": "Reajuste a servidores públicos",
+    "turno": "único",
+    "status": "mantido",
+    "data_votacao": "20/08/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/reajuste-a-servidores-publicos/",
+    "quorum_minimo": 257,
+    "resumo": "O veto 17 de 2020 impediu a concessão de reajustes a servidores públicos envolvidos no combate à Covid-19. Os senadores, porém, votaram para derrubar o veto. Depois, porém, os deputados votaram pela manutenção do veto. Com a manutenção do veto, fica proibido até o fim do ano que vem dar aumento salarial para qualquer categoria do serviço público no âmbito federal, estadual e municipal.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/08/20/congresso-camara-reverte-votacao-do-senado-e-mantem-veto-a-reajuste-de-servidores.ghtml",
+    "permalink": "reajuste-a-servidores-publicos"
   },
   {
-    "value": "reducao-do-fundo-eleitoral",
-    "label": "Redução do Fundo Eleitoral"
+    "id": 39,
+    "proposicao": "DTQ-PLN22-2019",
+    "vulgar": "Redução do Fundo Eleitoral",
+    "turno": "único",
+    "status": "rejeitado",
+    "data_votacao": "17/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 205,
+    "resumo": "O destaque ao PLN 22 de 2019 propõe a redução do Fundo Especial de Financiamento de Campanha (FEFC), chamado de Fundo Eleitoral, para o mínimo obrigatório determinado pela legislação. O valor passaria de R$ 2 bilhões, valor proposto pelo relator, para R$ 1,3 bilhão. O destaque não foi aprovado porque não teve o apoio de, no mínimo, metade dos presentes na votação. Com isso, o valor do Fundo Eleitoral se manteve em R$ 2 bilhões.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/17/congresso-aprova-texto-base-orcamento-de-2020-saiba-o-que-esta-previsto.ghtml",
+    "permalink": "reducao-do-fundo-eleitoral"
   },
   {
-    "value": "regras-para-armas-de-cacadores-e-colecionadores",
-    "label": "Regras para armas de caçadores e colecionadores"
+    "id": 28,
+    "proposicao": "PL3723-2019",
+    "vulgar": "Regras para armas de caçadores e colecionadores",
+    "turno": "único",
+    "status": "tramita no Senado",
+    "data_votacao": "05/11/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 213,
+    "resumo": "O PL 3.723 de 2019 prevê regras sobre uso de armas por caçadores, colecionadores e atiradores, os chamados CACs. Entre outros pontos, o texto define os procedimentos para o registro das armas e para a obtenção do certificado de capacidade técnica dos atiradores. A proposição foi aprovada por deputados e ainda precisa ser analisada por senadores.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/11/05/camara-aprova-projeto-que-preve-regras-sobre-uso-de-armas-por-cacadores-e-colecionadores.ghtml",
+    "permalink": "regras-para-armas-de-cacadores-e-colecionadores"
   },
   {
-    "value": "remanejamento-de-verbas-para-a-saude",
-    "label": "Remanejamento de verbas para a saúde"
+    "id": 46,
+    "proposicao": "PLP232-2019",
+    "vulgar": "Remanejamento de verbas para a saúde",
+    "turno": "único",
+    "status": "sancionado",
+    "data_votacao": "31/03/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/remanejamento-de-verbas-para-a-saude/",
+    "quorum_minimo": 243,
+    "resumo": "O PLP 232 de 2019 autoriza estados e municípios a remanejarem os saldos dos fundos locais de saúde. O projeto permite que os recursos sejam usados em ações de combate ao novo coronavírus. A proposição foi aprovada por deputados e senadores e, depoios, foi sancionada por Jair Bolsonaro em 16 de abril de 2020.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/03/31/coronavirus-camara-aprova-projeto-para-remanejar-verbas-de-fundos-de-saude.ghtml",
+    "permalink": "remanejamento-de-verbas-para-a-saude"
   },
   {
-    "value": "renovacao-do-fundeb-1-turno",
-    "label": "Renovação do Fundeb - 1º turno"
+    "id": 59,
+    "proposicao": "PEC15-2015-1t",
+    "vulgar": "Renovação do Fundeb",
+    "turno": "1",
+    "status": "aguarda promulgação",
+    "data_votacao": "21/07/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 15 de 2015 (também chamada de PEC 26 de 2020) renova o fundo que financia a educação básica, chamado de Fundeb, e amplia gradualmente a participação da União, até o patamar de 23% a partir de 2026. A proposta foi aprovada, em dois turnos, por deputados e senadores e aguarda a promulgação pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/07/21/fundeb-camara-aprova-em-1o-turno-texto-base-com-23percent-de-participacao-da-uniao-ate-2026.ghtml",
+    "permalink": "renovacao-do-fundeb-1-turno",
+    "votesTotal": {
+      "sim": 499,
+      "nao": 7,
+      "naovotou": 0,
+      "ausente": 7,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 513
+    },
+    "votesParty": {
+      "sim": 0,
+      "nao": 0,
+      "naovotou": 0,
+      "ausente": 0,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 0
+    }
   },
   {
-    "value": "renovacao-do-fundeb-2-turno",
-    "label": "Renovação do Fundeb - 2º turno"
+    "id": 60,
+    "proposicao": "PEC15-2015-2t",
+    "vulgar": "Renovação do Fundeb",
+    "turno": "2",
+    "status": "aguarda promulgação",
+    "data_votacao": "21/07/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 308,
+    "resumo": "O texto-base da PEC 15 de 2015 (também chamada de PEC 26 de 2020) renova o fundo que financia a educação básica, chamado de Fundeb, e amplia gradualmente a participação da União, até o patamar de 23% a partir de 2026. A proposta foi aprovada, em dois turnos, por deputados e senadores e aguarda a promulgação pelo Congresso.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/07/21/fundeb-camara-aprova-em-1o-turno-texto-base-com-23percent-de-participacao-da-uniao-ate-2026.ghtml",
+    "permalink": "renovacao-do-fundeb-2-turno"
   },
   {
-    "value": "suspensao-do-mandato-do-deputado-wilson-santiago",
-    "label": "Suspensão do mandato do deputado Wilson Santiago"
+    "id": 41,
+    "proposicao": "CMC1-2020",
+    "vulgar": "Suspensão do mandato do deputado Wilson Santiago",
+    "turno": "único",
+    "status": "aprovado",
+    "data_votacao": "05/02/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 257,
+    "resumo": "Os deputados aprovaram o parecer pela rejeição do afastamento do deputado Wilson Santiago (PTB-PB), determinado pelo ministro do STF Celso de Mello. Com esse resultado, o deputado pode retornar às suas funções parlamentares. Para manter o afastamento, eram necessários, no mínimo, 257 votos contra o parecer.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/02/05/camara-reverte-decisao-do-stf-e-derruba-afastamento-do-deputado-jose-wilson-santiago.ghtml",
+    "permalink": "suspensao-do-mandato-do-deputado-wilson-santiago"
   },
   {
-    "value": "uso-do-fundo-partidario-para-pagar-multas",
-    "label": "Uso do fundo partidário para pagar multas"
+    "id": 36,
+    "proposicao": "VET35-2019-MULTA",
+    "vulgar": "Uso do fundo partidário para pagar multas",
+    "turno": "único",
+    "status": "mantido",
+    "data_votacao": "10/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 257,
+    "resumo": "O veto 35 de 2019 de Jair Bolsonaro impede que os recursos do Fundo Partidário sejam usados para pagar multas eleitorais. Eram necessários 257 votos para derrubar o veto, mas 223 deputados se posicionaram desse modo. Portanto, o veto presidencial foi matido por deputados na sessão conjunta do Congresso e, logo, não precisou ser analisado por senadores.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/10/congresso-mantem-veto-de-bolsonaro-ao-uso-do-fundo-partidario-para-pagar-multas.ghtml",
+    "permalink": "uso-do-fundo-partidario-para-pagar-multas"
   },
   {
-    "value": "uso-obrigatorio-de-mascara-em-escola-e-comercio",
-    "label": "Uso obrigatório de máscara em escola e comércio"
+    "id": 61,
+    "proposicao": "VET25-2020",
+    "vulgar": "Uso obrigatório de máscara em escola e comércio",
+    "turno": "único",
+    "status": "derrubado",
+    "data_votacao": "19/08/2020",
+    "outra_votacao": "-",
+    "quorum_minimo": 257,
+    "resumo": "O veto 25 de 2020 elimita trecho do projeto de lei que obriga o uso de máscara em escolas, comércio, instituições de ensino, igrejas e templos. Os deputados, porém, votaram 'não' com o objetivo de derrubar o veto. O veto também foi derrubado pelos senadores. Assim, os trechos do projeto de lei são restaurados e promulgados pelo Congresso Nacional.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/08/19/camara-derruba-veto-ao-uso-obrigatorio-de-mascara-em-escola-e-comercio-falta-senado-votar.ghtml",
+    "permalink": "uso-obrigatorio-de-mascara-em-escola-e-comercio",
+    "votesTotal": {
+      "sim": 14,
+      "nao": 454,
+      "naovotou": 0,
+      "ausente": 44,
+      "abstencao": 1,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 513
+    },
+    "votesParty": {
+      "sim": 0,
+      "nao": 0,
+      "naovotou": 0,
+      "ausente": 0,
+      "abstencao": 0,
+      "obstrucao": 0,
+      "outros": 0,
+      "total": 0
+    }
   },
   {
-    "value": "veto-ao-limite-de-renda-para-acesso-ao-bpc",
-    "label": "Veto ao limite de renda para acesso ao BPC"
+    "id": 43,
+    "proposicao": "VET55-2019",
+    "vulgar": "Veto ao limite de renda para acesso ao BPC",
+    "turno": "único",
+    "status": "derrubado",
+    "data_votacao": "11/03/2020",
+    "outra_votacao": "https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/projetos/veto-ao-limite-de-renda-para-acesso-ao-bpc/",
+    "quorum_minimo": 257,
+    "resumo": "O veto 55 de 2019 de Jair Bolsonaro impede que a renda per capita familiar para se ter acesso ao Benefício de Prestação Continuada (BPC) suba de um quarto do salário mínimo para meio salário. Os senadores, em sessão conjunta com os deputados, votaram por derrubar o veto. Com isso, os trechos do projeto de lei são restaurados e promulgados pelo Congresso Nacional.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2020/03/11/congresso-derruba-veto-de-bolsonaro-a-aumento-do-limite-de-renda-para-acesso-ao-bpc.ghtml",
+    "permalink": "veto-ao-limite-de-renda-para-acesso-ao-bpc"
   },
   {
-    "value": "veto-sobre-a-propaganda-partidaria",
-    "label": "Veto sobre a propaganda partidária"
+    "id": 34,
+    "proposicao": "VET35-2019",
+    "vulgar": "Veto sobre a propaganda partidária",
+    "turno": "único",
+    "status": "mantido",
+    "data_votacao": "03/12/2019",
+    "outra_votacao": "-",
+    "quorum_minimo": 257,
+    "resumo": "O veto 35 de 2019 de Jair Bolsonaro impede a recriação da propaganda partidária gratuita no rádio e na TV, extinta na minirreforma eleitoral de 2017. Os deputados votaram, na maioria, para derrubar o veto de Bolsonaro e, portanto, recriar a propaganda partidária. Depois, o veto de Bolsonaro, porém, foi mantido durante a votação no Senado e, logo, o resultado do Congresso é que o veto fica mantido.",
+    "link_g1": "https://g1.globo.com/politica/noticia/2019/12/03/congresso-mantem-veto-de-bolsonaro-a-recriacao-da-propaganda-partidaria.ghtml",
+    "permalink": "veto-sobre-a-propaganda-partidaria"
   }
 ]
