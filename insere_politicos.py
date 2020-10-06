@@ -32,5 +32,6 @@ for politico in politicos:
     except Exception as e:
         print(e)
         db.rollback()
+        exit(-1)
 
 db.close()
