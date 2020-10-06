@@ -15,9 +15,11 @@ for politico in politicos:
 
     foto = 'https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/images/{}'.format(politico['foto'])
 
+    nome = politico['nome'].replace('\'', ' ')
+
     sql = "INSERT INTO politicos(politico_id, nome_politico, foto, uf, esta_em_exercicio, partido_id) " \
           "VALUES ({}, '{}', '{}', '{}', {}, {})".format(politico['id'],
-                                                         politico['nome'],
+                                                         nome,
                                                          foto,
                                                          politico['uf'],
                                                          esta_em_exercicio,
