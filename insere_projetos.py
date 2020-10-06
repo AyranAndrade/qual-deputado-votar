@@ -28,15 +28,16 @@ for projeto in projetos:
 
     resumo = projeto['resumo'].replace('\'', '')
 
-    sql = "INSERT INTO projetos(titulo, data_votacao, quorum_minimo, resumo, link_noticia, status_projeto_id, " \
-          "tipo_turno_id) " \
-          "VALUES ('{}', '{}', {}, '{}', '{}', {}, {})".format(projeto['vulgar'],
-                                                               data_votacao,
-                                                               projeto['quorum_minimo'],
-                                                               resumo,
-                                                               projeto['link_g1'],
-                                                               status_projeto,
-                                                               tipo_turno)
+    sql = "INSERT INTO projetos(projeto_id, titulo, data_votacao, quorum_minimo, resumo, link_noticia, " \
+          "status_projeto_id, tipo_turno_id) " \
+          "VALUES ({}, '{}', '{}', {}, '{}', '{}', {}, {})".format(projeto['id'],
+                                                                   projeto['vulgar'],
+                                                                   data_votacao,
+                                                                   projeto['quorum_minimo'],
+                                                                   resumo,
+                                                                   projeto['link_g1'],
+                                                                   status_projeto,
+                                                                   tipo_turno)
 
     print(sql)
 
